@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![yuyi-x](https://img.shields.io/badge/yuyi-x-github-blue?logo=github)](https://github.com/yuyi-x)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+来自西南方的一个小县城，现就读于南京大学新闻传播学院。
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: yuyeiei[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+南京大学新闻传播学院 本科 2023至今
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+影视传播，跨文化传播，以及看似与新闻传播不太相关的自然生态保护，传统文化与少数民族文化
 
