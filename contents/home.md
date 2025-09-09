@@ -1,7 +1,5 @@
 
 
-[![yuyi-x](https://img.shields.io/badge/yuyi-x-github-blue?logo=github)](https://github.com/yuyi-x)
-
 来自西南方的一个小县城，现就读于南京大学新闻传播学院。
 
 #### Contact
